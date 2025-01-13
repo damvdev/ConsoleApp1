@@ -43,4 +43,9 @@ public class Program
         const int Remainder = 0;
         return number > MinValue && number < MaxValue && number % value == Remainder;
     }
+
+    public static int ProvaError()
+    {
+        return ;
+    }
 }
